@@ -1,4 +1,4 @@
-# pranaOS
+# ShapeOS
 - Smart Operating System Built For x86, ARM, watch & mobile platforms.
 
 <p align="center">
@@ -38,46 +38,6 @@
 - ```prana``` to build the iso
 
 ## Todo:
-- check out the [todo's](https://github.com/pranaOS/pranaOS/projects/6)
-
-## Have Any Issues??:
-- contact our [discord](https://discord.gg/XmpBTmy9Bz)
-
-## Social Media:
-- [Youtube](https://www.youtube.com/channel/UCHBR5EYG9MDJ-yws4zN6xXQ)
-- [Discord](https://discord.gg/XmpBTmy9Bz)
-
-## Contribtuions
-- Intersted in this project??
-- pranaOS is an open-source project you can contribute to it :)
-- check out the [CONTRIBUTING](CONTRIBUTING.md) docs
-
-
-## Contributors:
-- Thanks for those who contributed to this project :)
-<br>
- <a href="https://github.com/pranaOS/pranaOS/graphs/contributors">
-   <img src="https://contributors-img.web.app/image?repo=pranaOS/pranaOS" />
-</a>
-
-## Inspired by:
-- [SerenityOS](https://github.com/SerenityOS/Serenity)
-- [macOS](https://github.com/apple/darwin-xnu)
-- [Linux](https://github.com/torvalds/linux)
-
-## Special mentions:
-- thanks for those who [stared](https://github.com/pranaOS/pranaOS/stargazers) ⭐ this project and gave a motivation :)
-- special thanks for those who has [contributed](https://github.com/pranaOS/pranaOS/graphs/contributors) and still contributing to this project
-- thanks to [OSDev wiki](https://wiki.osdev.org/Main_Page) it helped me a lot!!!
-
-- [NukeWilliams](https://github.com/NukeWilliams) who continously contributed to this project and added usefull things
-- [HirotoHinta](https://github.com/HirotoHinta) He helped a lot in kernel side bringed up new features to the project!
-- [OliviaCE](https://github.com/OliviaCE) OlivaCE helped a lot in kernel
-- [evilbat831](https://github.com/evilbat831) Henry worked in libraries, kernel
-- [biggboy021](https://github.com/biggboy021) Chester is working in libraries
-
-## License:
-- pranaOS is licensed under [BSD-2 Clause](https://github.com/pranaOS/pranaOS/blob/master/LICENSE)
 
 ```
 BSD 2-Clause License
