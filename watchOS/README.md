@@ -1,2 +1,2 @@
-# pranaWatch
-Prana Watch Operating System 
+# ShapeWatch
+Shape Watch Operating System 
