@@ -13,12 +13,12 @@ int main(int argc, char** argv)
     auto prana_files = Finder::FindRootPranaFiles();
 
     if (prana_files.size() > 1) {
-        Log(Color::Red, "multiple root files are presented");
+        Log(Color::Red, "Multiple root files are present");
         exit(1);
     }
 
     if (prana_files.empty()) {
-        Log(Color::Red, "no root files are presented");
+        Log(Color::Red, "No root files are present");
         exit(1);
     }
 
